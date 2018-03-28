@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM debian:jessie
 MAINTAINER Adam Hawkins <hi@ahawkins.me>
 
 ENV THRIFT_VERSION 0.10.0
